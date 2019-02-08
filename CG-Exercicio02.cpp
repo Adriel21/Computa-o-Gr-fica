@@ -1,11 +1,23 @@
-//////////////////////////////////////////////////////////////////
-//                 Adriel de Oliveira Araujo                    //
-//             Computação Gráfica - Exercício 02                //
-//                    Comandos do teclado:                      //
-//      w -> sobe; s -> desce; a -> esquerda; d -> direita;     //
-//      + -> aumenta; "-" -> diminui; r -> levanta braço;       //
-//f -> abaixa braço; R-> levante antebraço; F-> abaixa antebraço//
-//////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////
+//                           Adriel de Oliveira Araujo                          //
+//           Universidade Estadual do Ceará / Ceara State University            //
+//                     Computação Gráfica / Computer Graphics                   //
+//  *Esse código tem a função de implementar um robô podendo move-lo pela tela; //
+//   aumentar e diminuir seu tamanho; levantar e descer o braço e o antebraço.* //
+//                                                                              //
+//*This code has the function of implementing a robot being able move it through//
+// the screen; increase and decrease its size; raise and lower arm and forearm.*//
+//                                                                              //
+//                            Comandos do teclado:                              //
+//             w -> sobe; s -> desce; a -> esquerda; d -> direita;              //
+//              + -> aumenta; "-" -> diminui; r -> levanta braço;               //
+//         f -> abaixa braço; R-> levante antebraço; F-> abaixa antebraço       //
+//                                                                              //
+//                             Keyboard functions:                              //
+//                 w -> up; s -> down; a -> left; d -> right;                   //
+//          + -> increase size; "-" -> decrease size; r -> raise arm;           //
+//           f -> lower arm; R-> raise forearm; F-> lower forearm               //
+//////////////////////////////////////////////////////////////////////////////////
 
 #include <GL/glut.h>
 
