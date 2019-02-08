@@ -1,3 +1,13 @@
+//////////////////////////////////////////////////////////////////////////////////
+//                           Adriel de Oliveira Araujo                          //
+//           Universidade Estadual do Ceará / Ceara State University            //
+//                     Computação Gráfica / Computer Graphics                   //
+// *Esse código tem a intenção de implementar quatro telas em uma só, cada uma  //
+//               com desenhos específicos pedido em sala de aula.*              //
+// *This code is intended to implement four screens in one, each with specific  //
+//                     rawings requested in the classroom.*                     //
+//////////////////////////////////////////////////////////////////////////////////
+
 #include <GL/glut.h>
 
 #define LARGURA  500		
