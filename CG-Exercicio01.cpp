@@ -1,5 +1,5 @@
 //////////////////////////////////////////////////////////////////////////////////
-//                           Adriel de Oliveira Araujo                          //
+//                   Autor/Author: Adriel de Oliveira Araujo                    //
 //           Universidade Estadual do Ceará / Ceara State University            //
 //                     Computação Gráfica / Computer Graphics                   //
 // *Esse código tem a intenção de implementar quatro telas em uma só, cada uma  //
