@@ -1,5 +1,11 @@
-/* Código que representa
- * a animação de um quadrado 2D */
+//////////////////////////////////////////////////////////////////////////////////
+//                   Autor/Author: Adriel de Oliveira Araujo                    //
+//           Universidade Estadual do Ceará / Ceara State University            //
+//                     Computação Gráfica / Computer Graphics                   //
+//    *Esse código tem a intenção de implementar a animação de uma casa num     //
+//                                   quadro 2D.*                                //
+//          *This code is intended to implement a house animation in 2D.*       //
+//////////////////////////////////////////////////////////////////////////////////
 
 #include <GL/glut.h>
 #include <iostream>
